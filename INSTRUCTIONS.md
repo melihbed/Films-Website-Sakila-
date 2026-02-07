@@ -24,4 +24,3 @@ When we're building an application, we're getting data from the client side. The
 
 1. We need to create a database. Since we're working with sample database called sakila. We are fine.
 2. Create the appropriate tables in database. We have already tables created for us.
-3.
